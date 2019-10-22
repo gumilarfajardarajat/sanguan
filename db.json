@@ -1,0 +1,14 @@
+[
+    {
+        "no" : 1,
+        "name" : "Keylor Navas",
+        "position" : "goalkeeper",
+        "nationality" : "Costan Rican"
+    },
+    {
+        "no" : 2,
+        "name" : "Thiago Silva",
+        "position" : "defender",
+        "nationality" : "Brazil"
+    },    
+]
